@@ -53,10 +53,5 @@ public class TestChecker {
                         "But why won't Hamlet's inspiring motto toss our stubborn hero's tortuous battle for life, " +
                         "on one hand, and death, on another?",
                 true));
-        System.out.println("To be or not to be: that is the question; whether 'tis nobler in the mind to suffer " +
-                "the slings and arrows Of outrageous fortune, or to take arms against ".replaceAll("\\s", ""));
-        System.out.println("Is a befitting quote from one of Shakespeare's greatest tragedies. " +
-                "But why won't Hamlet's inspiring motto toss our stubborn hero's tortuous battle for life, " +
-                "on one hand, and death, on another?".replaceAll("\\s", ""));
     }
 }
